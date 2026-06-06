@@ -1,0 +1,6 @@
+{
+  "name": "N2S Developer Suite",
+  "description": "An interactive environment coordinator and configuration engine for GitHub Codespaces, the N2S (Node to Serverless) framework, and Vercel hosting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
